@@ -1,0 +1,98 @@
+/* html {
+    margin: 0;
+  }
+   */
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  #purple{
+    background-color: purple;
+  }
+  #cyan{
+    background-color: cyan;
+  }
+  #red{
+    background-color: red;
+
+  }
+  #oranged{
+    background-color: orangered;
+  }
+
+  #pink{
+    background-color: pink;
+  }
+  #indigo{
+    background-color: indigo;
+  }
+  #violet {
+    background-color: violet;
+  }
+  #maroon{
+    background-color: maroon;
+  }
+
+  #olive{
+    background-color: olive;
+  }
+  #magenta{
+    background-color: magenta;
+  }
+  #tan{
+    background-color: tan;
+  }
+  #teal{
+    background-color: teal;
+  }
+  #azure{
+    background-color: azure;
+  }
+  #silver{
+    background-color: silver;
+  }
+  #caral{
+    background-color: coral;
+  }
+  #fuchsia{
+    background-color: fuchsia;
+  }
+  #crimson{
+    background-color: crimson;
+  }
+  #inory{
+    background-color:hotpink;
+  }
+  #brown{
+    background-color: brown;
+  }
+  h2{
+    font-size: 30px;
+  }
+  
+  
